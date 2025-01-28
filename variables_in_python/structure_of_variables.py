@@ -11,15 +11,19 @@
 # in "  " these inverted comas  that will called string variable 
 
 myname :str = 'haseeb ahmed '
+print(myname)
 
 Myname :str = 'haseeb ahmed'
+print(Myname)
 
 MY_Father_Name : str = 'naeem ahmed'
+print(MY_Father_Name)
 
 grade : str = 'A'
+print(grade)
 
 city_name : str = 'Karachi'
-
+print(city_name)
 
 # if you want to write number in  variable  then you will write any numeric 
 #   that will called intiger  variable 
@@ -27,20 +31,24 @@ city_name : str = 'Karachi'
 
 
 Age : int = 22
+print(Age)
+
 
 price_of_car : int = 1222222
-
+print(price_of_car)
 
 
 
 # variable  in true false
 
 is_student : bool = True
+print(is_student)
 
 is_open : bool = False
+print(is_open)
 
 is_teacher : bool = True
-
+print(is_teacher)
 
 
 
